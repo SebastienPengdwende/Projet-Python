@@ -1,0 +1,1007 @@
+{ 
+  "History/Géography":[
+       {
+         "question": "In which year did the Kingdom of Dahomey (now part of Benin) officially abolish slavery?",
+         "options": [
+            "1848",
+            "1861",
+            "1889",
+            "1905"
+        ],
+         "answer": 1,
+         "category": "History",
+         "difficulty": "difficult",
+         "id": 1
+       },
+       {
+         "question": "Which African country was formerly known as Zaire?",
+         "options": [
+            "Kenya",
+            "Angola",
+            "Democratic Republic of the Congo",
+            "Burkina Faso"
+         ],
+         "answer": 2,
+         "category": "History",
+         "difficulty": "difficult",
+         "id": 2
+       },
+       {
+         "question": "What is the capital city of Burkina Faso?",
+         "options": [
+            "Ouagadougou",
+            "Bobo-Dioulasso",
+            "Koudougou",
+            "Banfora"
+         ],
+         "answer": 0,
+         "category": "Geography",
+         "difficulty": "difficult",
+         "id": 3
+       },
+       {
+         "question": "Who was the first female prime minister of the United Kingdom?",
+         "options": [
+            "Theresa May",
+            "Margaret Thatcher",
+            "Harriet Harman",
+            "Elizabeth II"
+         ],
+         "answer": 1,
+         "category": "History",
+         "difficulty": "difficult",
+         "id": 4
+       },
+       {
+         "question": "Which country is the world's largest producer of cacao?",
+         "options": [
+            "Ghana",
+            "Ivory Coast",
+            "Brazil",
+            "Burkina Faso"
+         ],
+         "answer": 1,
+         "category": "Geography",
+         "difficulty": "difficult",
+         "id": 5
+       },
+       {
+          "question": "In which year was the United Nations established?",
+         "options": [
+            "1942",
+            "1945",
+            "1950",
+            "1960"
+         ],
+         "answer": 1,
+         "category": "History",
+         "difficulty": "difficult",
+         "id": 6
+       },
+       {
+         "question": "What is the highest mountain in Africa?",
+         "options": [
+            "Mount Kilimanjaro",
+            "Mount Kenya",
+            "Mount Atlas",
+            "Ras Dashen"
+         ],
+         "answer": 0,
+         "category": "Geography",
+         "difficulty": "difficult",
+         "id": 7
+       },
+       {
+         "question": "Which civilization built the city of Machu Picchu?",
+         "options": [
+            "Aztec",
+            "Maya",
+            "Inca",
+            "Olmec"
+         ],
+         "answer": 2,
+          "category": "History",
+          "difficulty": "difficult",
+          "id": 8
+       },
+       {
+         "question": "In which country can you find the ancient city of Petra?",
+         "options": [
+            "Jordan",
+            "Egypt",
+            "Syria",
+            "Israel"
+         ],
+         "answer": 0,
+         "category": "Geography",
+         "difficulty": "difficult",
+         "id": 9
+       },
+       {
+         "question": "Who was the first emperor of the Roman Empire?",
+         "options": [
+            "Augustus",
+            "Nero",
+            "Julius Caesar",
+            "Tiberius"
+         ],
+         "answer": 0,
+         "category": "History",
+         "difficulty": "difficult",
+         "id": 10
+       },
+       {
+          "question": "What is the longest river in Asia?",
+         "options": [
+            "Yangtze",
+            "Ganges",
+            "Mekong",
+            "Amur"
+         ],
+         "answer": 0,
+         "category": "Geography",
+         "difficulty": "difficult",
+         "id": 11
+       },
+       {
+         "question": "Which country was the site of the first atomic bomb test in 1945?",
+         "options": [
+            "United States",
+            "Japan",
+            "Germany",
+            "Soviet Union"
+         ],
+         "answer": 0,
+         "category": "History",
+         "difficulty": "difficult",
+         "id": 12
+       },
+       {
+         "question": "Which African country was never colonized by a European power?",
+         "options": [
+            "Ethiopia",
+            "Liberia",
+            "South Africa",
+            "Burkina Faso"
+         ],
+         "answer": 0,
+          "category": "History",
+         "difficulty": "difficult",
+         "id":13
+       },
+       {
+         "question": "What is the name of the river that flows through Egypt?",
+         "options": [
+            "Nile",
+            "Amazon",
+            "Yangtze",
+            "Ganges"
+         ],
+         "answer": 0,
+         "category": "Geography",
+         "difficulty": "difficult",
+         "id": 14
+       },
+       {
+          "question": "Which city was once the capital of the Byzantine Empire?",
+          "options": [
+            "Athens",
+            "Rome",
+            "Constantinople",
+            "Cairo"
+            ],
+          "answer": 2,
+          "category": "History",
+         "difficulty": "difficult",
+         "id": 15
+       },
+       {
+           "question": "What is the currency of Burkina Faso?",
+           "options": [
+            "CFA Franc",
+            "Euro",
+            "Dinar",
+            "Pound"
+            ],
+            "answer": 0,
+           "category": "Geography",
+           "difficulty": "difficult",
+            "id": 16
+        },
+        {
+         "question": "Which African leader was awarded the Nobel Peace Prize in 1993?",
+         "options": [
+            "Nelson Mandela",
+            "Kofi Annan",
+            "Desmond Tutu",
+            "F.W. de Klerk"
+          ],
+           "answer": 0,
+          "category": "History",
+          "difficulty": "difficult",
+         "id": 17
+       },
+       {
+         "question": "Which famous structure is located in Paris, France?",
+          "options": [
+            "Eiffel Tower",
+            "Big Ben",
+            "Colosseum",
+            "Sagrada Familia"
+           ],
+         "answer": 0,
+           "category": "Geography",
+           "difficulty": "difficult",
+         "id": 18
+        },
+        {
+          "question": "Which country is the largest in terms of land area in South America?",
+          "options": [
+            "Brazil",
+            "Argentina",
+            "Peru",
+            "Chile"
+            ],
+            "answer": 0,
+            "category": "Geography",
+            "difficulty": "difficult",
+            "id": 19
+        },
+        {
+            "question": "Which country was the first to grant women the right to vote?",
+            "options": [
+            "United States",
+            "New Zealand",
+            "France",
+            "United Kingdom"
+              ],
+            "answer": 1,
+            "category": "History",
+            "difficulty": "difficult",
+            "id": 20
+        }
+    ],
+    "Math":[
+        {
+            "question": "What is the derivative of the function f(x) = 3x² + 5x - 2?",
+            "options": [
+                "6x + 5",
+                "6x - 5",
+                "5x + 3",
+                "5x - 3"
+            ],
+            "answer": 0,
+            "category": "Math",
+            "difficulty": "difficult",
+            "id": 21
+        },
+        {
+            "question": "What is the integral of the function f(x) = 2x?",
+            "options": [
+                "x² + C",
+                "x²",
+                "2x + C",
+                "2x"
+            ],
+            "answer": 0,
+            "category": "Math",
+            "difficulty": "difficult",
+            "id": 22
+        },
+        {
+            "question": "Solve the equation: 5x² + 6x - 2 = 0.",
+            "options": [
+                "x = 1, -2",
+                "x = 2, -1",
+                "x = 1/5, -2/5",
+                "x = -1, 2"
+            ],
+            "answer": 3,
+            "category": "Math",
+            "difficulty": "difficult",
+            "id": 23
+        },
+        {
+            "question": "What is the area of a circle with radius 7 cm?",
+            "options": [
+                "49π cm²",
+                "14π cm²",
+                "49 cm²",
+                "14 cm²"
+            ],
+            "answer": 0,
+            "category": "Math",
+            "difficulty": "difficult",
+            "id":24
+        },
+        {
+            "question": "What is the value of the sum of the infinite geometric series 1 + 1/2 + 1/4 + 1/8 + ...?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer": 0,
+            "category": "Math",
+            "difficulty": "difficult",
+            "id": 25
+        },
+        {
+            "question": "Find the value of x in the equation log₂(x) = 5.",
+            "options": [
+                "25",
+                "32",
+                "16",
+                "10"
+            ],
+            "answer": 1,
+            "category": "Math",
+            "difficulty": "difficult",
+            "id": 26
+        },
+        {
+            "question": "What is the solution to the system of equations: 2x + 3y = 6 and 3x - 4y = 5?",
+            "options": [
+                "x = 1, y = 1",
+                "x = 2, y = 0",
+                "x = 3, y = -1",
+                "x = -1, y = 2"
+            ],
+            "answer": 0,
+            "category": "Math",
+            "difficulty": "difficult",
+            "id":27
+        },
+        {
+            "question": "If sin(θ) = 3/5, what is cos(θ)?",
+            "options": [
+                "4/5",
+                "3/5",
+                "5/4",
+                "4/3"
+            ],
+            "answer": 0,
+            "category": "Math",
+            "difficulty": "difficult",
+            "id": 28
+        },
+        {
+            "question": "Find the value of the determinant of the matrix: [[2, 3], [4, 5]].",
+            "options": [
+                "-2",
+                "1",
+                "7",
+                "2"
+            ],
+            "answer": 1,
+            "category": "Math",
+            "difficulty": "difficult",
+            "id": 29
+        },
+        {
+            "question": "What is the sum of the first 50 positive integers?",
+            "options": [
+                "1275",
+                "2550",
+                "1000",
+                "1225"
+            ],
+            "answer": 0,
+            "category": "Math",
+            "difficulty": "difficult",
+            "id": 30
+        },
+        {
+            "question": "Solve for x: 3^(x+2) = 81.",
+            "options": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "answer": 1,
+            "category": "Math",
+            "difficulty": "difficult",
+            "id": 31
+        },
+        {
+            "question": "What is the value of the integral ∫(3x² + 4x + 1)dx?",
+            "options": [
+                "x³ + 2x² + x + C",
+                "x³ + 2x² + C",
+                "x³ + 4x + 1 + C",
+                "x³ + 2x + 3 + C"
+            ],
+            "answer": 0,
+            "category": "Math",
+            "difficulty": "difficult",
+            "id": 32
+        },
+        {
+            "question": "What is the sum of the infinite series 1 - 1/2 + 1/3 - 1/4 + ...?",
+            "options": [
+                "ln(2)",
+                "π",
+                "e",
+                "1"
+            ],
+            "answer": 0,
+            "category": "Math",
+            "difficulty": "difficult",
+            "id": 33
+        },
+        {
+            "question": "What is the value of tan(π/4)?",
+            "options": [
+                "0",
+                "1",
+                "√3",
+                "∞"
+            ],
+            "answer": 1,
+            "category": "Math",
+            "difficulty": "difficult",
+            "id": 34
+        },
+        {
+            "question": "Solve for x: (x + 5)² = 36.",
+            "options": [
+                "x = -11, 1",
+                "x = -6, 1",
+                "x = -5, 1",
+                "x = -5, -11"
+            ],
+            "answer": 3,
+            "category": "Math",
+            "difficulty": "difficult",
+            "id": 35
+        },
+        {
+            "question": "What is the inverse of the matrix [[1, 2], [3, 4]]?",
+            "options": [
+                "[[4, -2], [-3, 1]]",
+                "[[-4, 2], [3, -1]]",
+                "[[1, -2], [-3, 4]]",
+                "[[2, -1], [-3, 1]]"
+            ],
+            "answer": 0,
+            "category": "Math",
+            "difficulty": "difficult",
+            "id": 36
+        },
+        {
+            "question": "Find the value of the determinant of the matrix: [[1, 3], [2, 5], [4, 7]].",
+            "options": [
+                "5",
+                "3",
+                "1",
+                "0"
+            ],
+            "answer": 3,
+            "category": "Math",
+            "difficulty": "difficult",
+            "id": 37
+        },
+        {
+            "question": "What is the solution to the equation x² + 2x - 3 = 0?",
+            "options": [
+                "x = -3, 1",
+                "x = -1, 3",
+                "x = 1, -3",
+                "x = 3, -1"
+            ],
+            "answer": 2,
+            "category": "Math",
+            "difficulty": "difficult",
+            "id": 38
+        }, 
+        {
+             "question": "What is the value of the limit lim(x→0) (sin(x)/x)?",
+             "options": [
+                "0",
+                "1",
+                "∞",
+                "Undefined"
+             ],
+             "answer": 1,
+             "category": "Math",
+             "difficulty": "difficult",
+             "id": 39
+        },
+        {
+            "question": "What is the derivative of e^x?",
+            "options": [
+                "e^x",
+                "x * e^(x-1)",
+                "ln(x)",
+                "1"
+            ],
+            "answer": 0,
+            "category": "Math",
+            "difficulty": "difficult",
+            "id": 40
+        }
+    ],
+    "General Knowledge":[
+        {
+          "question": "What is the name of the oldest known written story in human history?",
+          "options": ["The Odyssey", "The Epic of Gilgamesh", "Beowulf", "The Book of the Dead"],
+          "answer_index": 1,
+          "category": "General Knowledge",
+          "id": 41
+       },
+       {
+          "question": "Which element is named after the creator of the periodic table?",
+          "options": ["Einsteinium", "Mendelevium", "Curium", "Nobelium"],
+          "answer_index": 1,
+          "category": "General Knowledge",
+          "id": 42
+        },
+        {
+          "question": "Which African leader was also a Nobel Peace Prize laureate in 1984?",
+          "options": ["Julius Nyerere", "Kwame Nkrumah", "Desmond Tutu", "Nelson Mandela"],
+          "answer_index": 2,
+          "category": "General Knowledge",
+         "id": 43
+        },
+        {
+          "question": "What is the approximate age of the Earth?",
+          "options": ["2.5 billion years", "4.5 billion years", "6.5 billion years", "3 billion years"],
+          "answer_index": 1,
+          "category": "General Knowledge",
+          "id": 44
+        },
+        {
+          "question": "Which country was formerly known as Abyssinia?",
+          "options": ["Sudan", "Ethiopia", "Somalia", "Eritrea"],
+          "answer_index": 1,
+          "category": "General Knowledge",
+          "id": 45
+        },
+        {
+          "question": "Who was the first female Nobel laureate?",
+          "options": ["Marie Curie", "Mother Teresa", "Rosalind Franklin", "Jane Addams"],
+          "answer_index": 0,
+          "category": "General Knowledge",
+          "id": 46
+        },
+        {
+          "question": "What is the smallest prime number that is also a twin prime?",
+          "options": ["2", "3", "5", "7"],
+          "answer_index": 1,
+          "category": "General Knowledge",
+          "id": 47
+        },
+        {
+          "question": "Which philosopher wrote 'Critique of Pure Reason'?",
+          "options": ["René Descartes", "Immanuel Kant", "Plato", "Hegel"],
+          "answer_index": 1,
+          "category": "General Knowledge",
+          "id": 48
+        },
+        {
+          "question": "Which U.S. President had the shortest time in office?",
+          "options": ["William Henry Harrison", "James Garfield", "Zachary Taylor", "Gerald Ford"],
+          "answer_index": 0,
+          "category": "General Knowledge",
+          "id": 49
+        },
+        {
+          "question": "What is the capital city of Bhutan?",
+          "options": ["Thimphu", "Kathmandu", "Paro", "Lhasa"],
+          "answer_index": 0,
+          "category": "General Knowledge",
+          "id": 50
+        },
+        {
+          "question": "What is the mathematical term for a number that cannot be expressed as a fraction?",
+          "options": ["Whole number", "Irrational number", "Integer", "Prime number"],
+          "answer_index": 1,
+          "category": "General Knowledge",
+          "id": 51
+        },
+        {
+          "question": "Which artist is known for the painting 'The Garden of Earthly Delights'?",
+          "options": ["Hieronymus Bosch", "Leonardo da Vinci", "Pieter Bruegel", "Jan van Eyck"],
+          "answer_index": 0,
+          "category": "General Knowledge",
+          "id": 52
+        },
+        {
+          "question": "Who was the first African woman to win a Nobel Peace Prize?",
+          "options": ["Ellen Johnson Sirleaf", "Wangari Maathai", "Graça Machel", "Ngozi Okonjo-Iweala"],
+          "answer_index": 1,
+          "category": "General Knowledge",
+          "id": 53
+        },
+        {
+          "question": "Which ancient city was known for the Hanging Gardens?",
+          "options": ["Babylon", "Athens", "Alexandria", "Rome"],
+          "answer_index": 0,
+          "category": "General Knowledge",
+          "id": 54
+        },
+        {
+          "question": "Which planet has the shortest day in the solar system?",
+          "options": ["Earth", "Jupiter", "Mars", "Saturn"],
+          "answer_index": 1,
+          "category": "General Knowledge",
+          "id": 55
+        },
+        {
+          "question": "In logic, what is a 'modus ponens' argument?",
+          "options": [
+            "If A then B; A; therefore B",
+            "If A then B; not A; therefore not B",
+            "If A then B; B; therefore A",
+            "If A then B; not B; therefore not A"
+          ],
+          "answer_index": 0,
+          "category": "General Knowledge",
+          "id": 56
+        },
+        {
+          "question": "Which river is considered the deepest in the world?",
+          "options": ["Amazon", "Nile", "Yangtze", "Congo"],
+          "answer_index": 3,
+          "category": "General Knowledge",
+          "id": 57
+        },
+        {
+          "question": "What is the main ingredient in the Indian dish 'paneer tikka'?",
+          "options": ["Tofu", "Cottage cheese", "Lentils", "Chickpeas"],
+          "answer_index": 1,
+          "category": "General Knowledge",
+          "id": 58
+        },
+        {
+          "question": "What is Gödel’s incompleteness theorem primarily about?",
+          "options": [
+            "The limits of mathematical proof",
+            "The behavior of prime numbers",
+            "Quantum mechanics",
+            "Set theory axioms"
+          ],
+          "answer_index": 0,
+          "category": "General Knowledge",
+          "id": 59
+        },
+        {
+          "question": "Which ancient civilization invented the first known writing system?",
+          "options": ["Egyptians", "Sumerians", "Phoenicians", "Chinese"],
+          "answer_index": 1,
+          "category": "General Knowledge",
+          "id": 60
+        }
+    ],
+    "Personalities":[
+        {
+            "id": 61,
+            "question": "Which Nobel laureate discovered polonium and radium alongside her husband but received her first Nobel Prize alone?",
+            "options": ["Marie Curie", "Irène Joliot-Curie", "Lise Meitner", "Dorothy Crowfoot Hodgkin"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "hard"
+        },
+        {
+            "id": 62,
+            "question": "Which African leader adopted Marxist-Leninist policies and renamed his country 'Burkina Faso'?",
+            "options": ["Thomas Sankara", "Blaise Compaoré", "Modibo Keïta", "Samora Machel"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "hard"
+        },
+        {
+            "id": 63,
+            "question": "Who was the first woman to receive two Nobel Prizes in different scientific fields?",
+            "options": ["Marie Curie", "Barbara McClintock", "Dorothy Hodgkin", "Rosalind Franklin"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "hard"
+        },
+        {
+            "id":64,
+            "question": "Who formulated the laws of motion and universal gravitation in his work 'Philosophiæ Naturalis Principia Mathematica'?",
+            "options": ["Isaac Newton", "Galileo Galilei", "Johannes Kepler", "René Descartes"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "hard"
+        },
+        {
+            "id": 65,
+            "question": "Which author of 'Things Fall Apart' was never awarded the Nobel Prize despite global recognition?",
+            "options": ["Chinua Achebe", "Ngũgĩ wa Thiong'o", "Wole Soyinka", "Ben Okri"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "hard"
+        },
+        {
+            "id": 66,
+            "question": "Which female mathematician made critical contributions to number theory and abstract algebra in the early 20th century?",
+            "options": ["Emmy Noether", "Ada Lovelace", "Sophie Germain", "Grace Hopper"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "hard"
+        },
+        {
+            "id": 67,
+            "question": "Which Burkinabè journalist and activist was assassinated in 1998, sparking national protests?",
+            "options": ["Norbert Zongo", "Idrissa Ouédraogo", "Gaston Kaboré", "Benewende Sankara"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "hard"
+        },
+        {
+            "id": 68,
+            "question": "Who was the first African-American woman to travel to space?",
+            "options": ["Mae Jemison", "Sally Ride", "Katherine Johnson", "Valentina Tereshkova"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "hard"
+        },
+        {
+            "id":69,
+            "question": "Which philosopher introduced the concept of 'tabula rasa' in his theories on knowledge?",
+            "options": ["John Locke", "David Hume", "Immanuel Kant", "René Descartes"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "hard"
+        },
+        {
+            "id": 70,
+            "question": "Which jazz legend was known for his innovative trumpet techniques and scat singing?",
+            "options": ["Louis Armstrong", "Miles Davis", "John Coltrane", "Duke Ellington"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "hard"
+        },
+        {
+            "id": 72,
+            "question": "Which political thinker authored 'The Second Sex' and laid foundations for modern feminism?",
+            "options": ["Simone de Beauvoir", "Virginia Woolf", "Gloria Steinem", "Betty Friedan"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "hard"
+        },
+        {
+            "id":72,
+            "question": "Which African revolutionary was key in Angola’s independence and later assassinated?",
+            "options": ["Agostinho Neto", "Amílcar Cabral", "Samora Machel", "Patrice Lumumba"],
+            "answer": 1,
+            "category": "personalities",
+            "difficulty": "hard"
+        },
+        {
+            "id": 73,
+            "question": "Who was the first person to propose the heliocentric model of the solar system in the Renaissance?",
+            "options": ["Nicolaus Copernicus", "Galileo Galilei", "Tycho Brahe", "Ptolemy"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "hard"
+        },
+        {
+            "id": 74,
+            "question": "Which Renaissance artist and inventor filled notebooks with ideas for helicopters and tanks?",
+            "options": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Titian"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "hard"
+        },
+        {
+            "id": 75,
+            "question": "Which entrepreneur co-founded PayPal before founding multiple billion-dollar tech companies?",
+            "options": ["Elon Musk", "Peter Thiel", "Mark Zuckerberg", "Jack Dorsey"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "hard"
+        },
+        {
+            "id": 76,
+            "question": "Which literary figure from Nigeria wrote 'A Man of the People' and 'Arrow of God'?",
+            "options": ["Chinua Achebe", "Wole Soyinka", "Ben Okri", "Ngũgĩ wa Thiong'o"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "hard"
+        },
+        {
+            "id": 77,
+            "question": "Who became South Africa's first black president after spending 27 years in prison?",
+            "options": ["Nelson Mandela", "Thabo Mbeki", "Desmond Tutu", "Steve Biko"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "hard"
+        },
+        {
+            "id": 78,
+            "question": "Which Egyptian Nobel laureate is known for his philosophical and political novels such as 'Children of the Alley'?",
+            "options": ["Naguib Mahfouz", "Alaa Al Aswany", "Taha Hussein", "Nawal El Saadawi"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "hard"
+        },
+        {
+            "id": 79,
+            "question": "Which visionary physicist’s work on black holes led to the formulation of Hawking radiation?",
+            "options": ["Stephen Hawking", "Roger Penrose", "Kip Thorne", "Richard Feynman"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "hard"
+        },
+        {
+            "id": 80,
+            "question": "Which Burkinabè intellectual and historian contributed significantly to African historical research and identity?",
+            "options": ["Joseph Ki-Zerbo", "Thomas Sankara", "Philippe Ouédraogo", "Kadré Désiré Ouédraogo"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "hard"
+        },
+        {
+            "question": "A man is looking at a portrait. He says, 'Brothers and sisters, I have none, but the man in the picture is my father's son.' Who is in the picture?",
+            "options": ["His son", "His father", "Himself", "His uncle"],
+            "answer": 2,
+            "category": "Logic",
+            "difficulty": "hard",
+            "id": 81
+        }
+    ],
+    "Logic":[
+        {
+            "question": "You see a boat filled with people. It hasn’t sunk, but when you look again you don’t see a single person on the boat. Why?",
+            "options": ["They all jumped out", "They're under the deck", "They were all married", "It was an illusion"],
+            "answer": 2,
+            "category": "Logic",
+            "difficulty": "hard",
+            "id": 82
+        },
+        {
+            "question": "Two fathers and two sons go fishing. They catch 3 fish, and each one gets one. How is this possible?",
+            "options": ["One fish is shared", "They lied", "They are grandfather, father, and son", "A fish was thrown back"],
+            "answer": 2,
+            "category": "Logic",
+            "difficulty": "hard",
+            "id": 83
+        },
+        {
+            "question": "In a room, there are 3 light switches. One of them controls a bulb in another room. How can you determine which switch controls the bulb, if you can enter the bulb room only once?",
+            "options": [
+                "Turn one on, go check",
+                "Turn one on, then off; turn another on and check",
+                "Flip all switches quickly",
+                "Use a thermometer"
+            ],
+            "answer": 1,
+            "category": "Logic",
+            "difficulty": "hard",
+            "id": 84
+        },
+        {
+            "question": "A man is pushing his car along a road when he comes to a hotel and realizes he's bankrupt. Why?",
+            "options": ["He crashed", "He ran out of gas", "He’s playing Monopoly", "He forgot his wallet"],
+            "answer": 2,
+            "category": "Logic",
+            "difficulty": "hard",
+            "id": 85
+        },
+        {
+            "question": "The day before two days after the day before tomorrow is Saturday. What day is it today?",
+            "options": ["Friday", "Saturday", "Sunday", "Thursday"],
+            "answer": 0,
+            "category": "Logic",
+            "difficulty": "hard",
+            "id":86
+        },
+        {
+            "question": "You measure my life in hours and I serve you by expiring. I'm quick when I'm thin and slow when I'm fat. What am I?",
+            "options": ["Candle", "Clock", "Hourglass", "Shadow"],
+            "answer": 0,
+            "category": "Logic",
+            "difficulty": "hard",
+            "id": 87
+        },
+        {
+            "question": "I am taken from a mine and shut in a wooden case. When I’m used, I am almost gone. What am I?",
+            "options": ["Coal", "Pencil lead", "Gold", "Eraser"],
+            "answer": 1,
+            "category": "Logic",
+            "difficulty": "hard",
+            "id": 88
+        },
+        {
+            "question": "A girl has as many brothers as sisters, but each brother has only half as many brothers as sisters. How many brothers and sisters are there?",
+            "options": ["4 brothers, 3 sisters", "3 brothers, 4 sisters", "2 brothers, 3 sisters", "5 brothers, 4 sisters"],
+            "answer": 1,
+            "category": "Logic",
+            "difficulty": "hard",
+            "id": 89
+        },
+        {
+            "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",
+            "options": ["Echo", "Whistle", "Shadow", "Vibration"],
+            "answer": 0,
+            "category": "Logic",
+            "difficulty": "hard",
+            "id": 90
+        },
+        {
+            "question": "You’re in a dark room with a match, a candle, a lamp, and a fireplace. What do you light first?",
+            "options": ["Candle", "Lamp", "Match", "Fireplace"],
+            "answer": 2,
+            "category": "Logic",
+            "difficulty": "hard",
+            "id": 91
+        },
+        {
+            "question": "What number comes next in the pattern: 1, 11, 21, 1211, 111221, __?",
+            "options": ["312211", "112321", "111223", "122111"],
+            "answer": 0,
+            "category": "Logic",
+            "difficulty": "hard",
+            "id": 92
+        },
+        {
+            "question": "Three people check into a room costing $30. They each pay $10. Later, the manager realizes it was only $25 and sends $5 back. The bellboy gives each person $1 and keeps $2. Now each person paid $9 (3x9=27) and the bellboy kept $2, totaling $29. Where is the missing dollar?",
+            "options": ["In the room fee", "It’s a trick question", "Given to manager", "Lost in change"],
+            "answer": 1,
+            "category": "Logic",
+            "difficulty": "hard",
+            "id": 93
+        },
+        {
+            "question": "A blind beggar had a brother who died. The brother who died had no brothers. How is this possible?",
+            "options": ["He was adopted", "They are the same person", "The beggar is a woman", "He had a twin"],
+            "answer": 2,
+            "category": "Logic",
+            "difficulty": "hard",
+            "id": 94
+        },
+        {
+            "question": "You have 8 balls, one is slightly heavier, and a scale. What's the minimum number of weighings to find the heavier one?",
+            "options": ["2", "3", "4", "1"],
+            "answer": 1,
+            "category": "Logic",
+            "difficulty": "hard",
+            "id": 95
+        },
+        {
+            "question": "A clock shows the time as 3:15. What is the angle between the hour hand and the minute hand?",
+            "options": ["7.5 degrees", "15 degrees", "22.5 degrees", "30 degrees"],
+            "answer": 2,
+            "category": "Logic",
+            "difficulty": "hard",
+            "id": 96
+        },
+        {
+            "question": "If two's company and three's a crowd, what is four and five?",
+            "options": ["Nine", "A group", "Fourteen", "A crowd"],
+            "answer": 0,
+            "category": "Logic",
+            "difficulty": "hard",
+            "id": 97
+        },
+        {
+            "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+            "options": ["The letter 'm'", "The letter 'e'", "The number '1'", "The word 'time'"],
+            "answer": 0,
+            "category": "Logic",
+            "difficulty": "hard",
+            "id": 98
+        },
+        {
+            "question": "A man is 24 years older than his son. In 6 years, the father will be three times as old as his son. How old is the father now?",
+            "options": ["24", "30", "36", "42"],
+            "answer": 2,
+            "category": "Logic",
+            "difficulty": "hard",
+            "id": 99
+        },
+        {
+            "question": "A man takes a walk in the woods and sees a bear. The bear is brown, and the man is at the North Pole. What color is the bear?",
+            "options": ["White", "Brown", "Black", "Gray"],
+            "answer": 0,
+            "category": "Logic",
+            "difficulty": "hard",
+            "id":100
+        }
+    ]   
+}

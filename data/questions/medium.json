@@ -1,0 +1,863 @@
+{
+   "History/Géography":[
+        {
+            "question": "What year did the French Revolution begin?",
+            "options": [
+            "1776",
+            "1789",
+            "1791",
+            "1800"
+            ],
+            "answer": 1,
+            "category": "History",
+            "difficulty": "medium",
+            "id": 1
+        },
+        {
+            "question": "Which African country was formerly known as the Gold Coast?",
+            "options": [
+            "Nigeria",
+            "Ghana",
+            "Kenya",
+            "Uganda"
+            ],
+            "answer": 1,
+            "category": "History",
+            "difficulty": "medium",
+            "id": 2
+        },
+        {
+            "question": "Which continent is known as the 'Dark Continent'?",
+            "options": [
+            "Asia",
+            "Africa",
+            "South America",
+            "Australia"
+            ],
+            "answer": 1,
+            "category": "Geography",
+            "difficulty": "medium",
+            "id": 3
+        },
+        {
+            "question": "In which year did the United States land the first man on the Moon?",
+            "options": [
+            "1965",
+            "1969",
+            "1971",
+            "1973"
+            ],
+            "answer": 1,
+            "category": "History",
+            "difficulty": "medium",
+            "id": 4
+        },
+        {
+            "question": "Which river is the longest in Europe?",
+            "options": [
+            "Volga River",
+            "Danube River",
+            "Rhine River",
+            "Thames River"
+            ],
+            "answer": 0,
+            "category": "Geography",
+            "difficulty": "medium",
+            "id": 5
+        },
+        {
+            "question": "Which city was the capital of the Aztec Empire?",
+            "options": [
+            "Tenochtitlán",
+            "Cuzco",
+            "Mexico City",
+            "Teotihuacan"
+            ],
+            "answer": 0,
+            "category": "History",
+            "difficulty": "medium",
+            "id": 6
+        },
+        {
+            "question": "Which country was the first to sign the Treaty of Versailles in 1919?",
+            "options": [
+            "United Kingdom",
+            "Germany",
+            "France",
+            "Italy"
+            ],
+            "answer": 2,
+            "category": "History",
+            "difficulty": "medium",
+            "id": 7
+        },
+        {
+            "question": "Which is the largest desert in the world?",
+            "options": [
+            "Sahara Desert",
+            "Gobi Desert",
+            "Kalahari Desert",
+            "Antarctic Desert"
+            ],
+            "answer": 3,
+            "category": "Geography",
+            "difficulty": "medium",
+            "id": 8
+        },
+        {
+            "question": "Who was the first emperor of China?",
+            "options": [
+            "Confucius",
+            "Qin Shi Huang",
+            "Han Wudi",
+            "Liu Bang"
+            ],
+            "answer": 1,
+            "category": "History",
+            "difficulty": "medium",
+            "id": 9
+        },
+        {
+            "question": "Which ocean borders the eastern coast of the United States?",
+            "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Pacific Ocean"
+            ],
+            "answer": 0,
+            "category": "Geography",
+            "difficulty": "medium",
+            "id": 10
+        },
+        {
+            "question": "Which empire was known as the 'Land of the Rising Sun'?",
+            "options": ["Roman Empire", "Japanese Empire", "Ottoman Empire", "Mongol Empire"],
+            "answer": 1,
+            "category": "History",
+            "difficulty": "medium",
+            "id": 11
+        },
+        {
+            "question": "What is the smallest country in the world by land area?",
+            "options": ["Monaco", "San Marino", "Vatican City", "Liechtenstein"],
+            "answer": 2,
+            "category": "Geography",
+            "difficulty": "medium",
+            "id": 12
+        },
+        {
+            "question": "Who was the first President of South Africa after apartheid?",
+            "options": ["Nelson Mandela", "Thabo Mbeki", "Jacob Zuma", "F.W. de Klerk"],
+            "answer": 0,
+            "category": "History",
+            "difficulty": "medium",
+            "id": 13
+        },
+        {
+            "question": "Which mountain range separates Europe and Asia?",
+            "options": ["Himalayas", "Andes", "Ural Mountains", "Rocky Mountains"],
+            "answer": 2,
+            "category": "Geography",
+            "difficulty": "medium",
+            "id": 14
+        },
+        {
+            "question": "Which treaty ended World War I?",
+            "options": ["Treaty of Versailles", "Treaty of Paris", "Treaty of Tordesillas", "Treaty of Ghent"],
+            "answer": 0,
+            "category": "History",
+            "difficulty": "medium",
+            "id": 15
+        },
+        {
+            "question": "What is the capital city of Australia?",
+            "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+            "answer": 2,
+            "category": "Geography",
+            "difficulty": "medium",
+            "id": 16
+        },
+        {
+            "question": "Who was the leader of the Soviet Union during World War II?",
+            "options": ["Vladimir Lenin", "Joseph Stalin", "Nikita Khrushchev", "Leonid Brezhnev"],
+            "answer": 1,
+            "category": "History",
+            "difficulty": "medium",
+            "id": 17
+        },
+        {
+            "question": "Which country is home to the Great Barrier Reef?",
+            "options": ["Australia", "New Zealand", "Indonesia", "Fiji"],
+            "answer": 0,
+            "category": "Geography",
+            "difficulty": "medium",
+            "id": 18
+        },
+        {
+            "question": "Which historical event is associated with the year 1066?",
+            "options": ["The signing of the Magna Carta", "The Battle of Hastings", "The fall of Constantinople", "The discovery of America"],
+            "answer": 1,
+            "category": "History",
+            "difficulty": "medium",
+            "id": 19
+        },
+        {
+            "question": "Which country has the highest number of active volcanoes?",
+            "options": ["Japan", "Indonesia", "United States", "Italy"],
+            "answer": 1,
+            "category": "Geography",
+            "difficulty": "medium",
+            "id": 20
+        }
+    ],
+    "Math":[
+        {
+            "id": 21,
+            "question": "If a train travels 60 kilometers in 1 hour, how far will it travel in 3.5 hours?",
+            "options": ["180 km", "200 km", "210 km", "220 km"],
+            "answer": 2,
+            "category": "Math",
+            "difficulty": "medium"
+        },
+        {
+            "id": 22,
+            "question": "What is the value of 5² + 4²?",
+            "options": ["41", "45", "50", "61"],
+            "answer": 0,
+            "category": "Math",
+            "difficulty": "medium"
+        },
+        {
+            "id": 23,
+            "question": "A rectangle has a length of 12 cm and a width of 8 cm. What is its area?",
+            "options": ["80 cm²", "96 cm²", "100 cm²", "120 cm²"],
+            "answer": 1,
+            "category": "Math",
+            "difficulty": "medium"
+        },
+        {
+            "id": 24,
+            "question": "What is the value of 3/4 × 16?",
+            "options": ["10", "12", "14", "18"],
+            "answer": 1,
+            "category": "Math",
+            "difficulty": "medium"
+        },
+        {
+            "id": 25,
+            "question": "If a car uses 8 liters of fuel to travel 100 kilometers, how much fuel is needed to travel 250 kilometers?",
+            "options": ["15 liters", "18 liters", "20 liters", "25 liters"],
+            "answer": 2,
+            "category": "Math",
+            "difficulty": "medium"
+        },
+        {
+            "id": 26,
+            "question": "What is the sum of the first five prime numbers?",
+            "options": ["26", "28", "30", "32"],
+            "answer": 1,
+            "category": "Math",
+            "difficulty": "medium"
+        },
+        {
+            "id": 27,
+            "question": "What is the value of 7 × (10 - 3)?",
+            "options": ["42", "49", "56", "63"],
+            "answer": 1,
+            "category": "Math",
+            "difficulty": "medium"
+        },
+        {
+            "id": 28,
+            "question": "A circle has a diameter of 14 cm. What is its radius?",
+            "options": ["5 cm", "6 cm", "7 cm", "8 cm"],
+            "answer": 2,
+            "category": "Math",
+            "difficulty": "medium"
+        },
+        {
+            "id": 29,
+            "question": "What is the value of 1.5 × 1.5?",
+            "options": ["2.0", "2.25", "2.5", "3.0"],
+            "answer": 1,
+            "category": "Math",
+            "difficulty": "medium"
+        },
+        {
+            "id": 30,
+            "question": "If a triangle has sides of 3 cm, 4 cm, and 5 cm, what is its perimeter?",
+            "options": ["10 cm", "11 cm", "12 cm", "13 cm"],
+            "answer": 2,
+            "category": "Math",
+            "difficulty": "medium"
+        },
+        {
+            "id": 31,
+            "question": "What is the value of 6 × 7 - 5?",
+            "options": ["37", "39", "41", "42"],
+            "answer": 1,
+            "category": "Math",
+            "difficulty": "medium"
+        },
+        {
+            "id": 32,
+            "question": "What is the average of the numbers 8, 12, and 16?",
+            "options": ["10", "12", "14", "16"],
+            "answer": 1,
+            "category": "Math",
+            "difficulty": "medium"
+        },
+        {
+            "id": 33,
+            "question": "What is the value of 0.5 × 0.5?",
+            "options": ["0.25", "0.5", "0.75", "1.0"],
+            "answer": 0,
+            "category": "Math",
+            "difficulty": "medium"
+        },
+        {
+            "id": 34,
+            "question": "What is the value of 2³ × 3²?",
+            "options": ["36", "48", "54", "72"],
+            "answer": 2,
+            "category": "Math",
+            "difficulty": "medium"
+        },
+        {
+            "id": 35,
+            "question": "What is the value of 100 - (25 + 15)?",
+            "options": ["50", "55", "60", "65"],
+            "answer": 2,
+            "category": "Math",
+            "difficulty": "medium"
+        },
+        {
+            "id": 36,
+            "question": "What is the value of 4 × 4 × 4?",
+            "options": ["32", "48", "64", "80"],
+            "answer": 2,
+            "category": "Math",
+            "difficulty": "medium"
+        },
+        {
+            "id": 37,
+            "question": "What is the value of 10% of 250?",
+            "options": ["20", "25", "30", "35"],
+            "answer": 1,
+            "category": "Math",
+            "difficulty": "medium"
+        },
+        {
+            "id": 38,
+            "question": "What is the value of 7 × 7 - 10?",
+            "options": ["39", "40", "41", "42"],
+            "answer": 0,
+            "category": "Math",
+            "difficulty": "medium"
+        },
+        {
+            "id": 39,
+            "question": "What is the value of 1/3 + 1/6?",
+            "options": ["1/2", "2/3", "3/4", "5/6"],
+            "answer": 0,
+            "category": "Math",
+            "difficulty": "medium"
+        },
+        {
+            "id": 40,
+            "question": "What is the value of 9 × (2 + 3)?",
+            "options": ["36", "40", "45", "50"],
+            "answer": 2,
+            "category": "Math",
+            "difficulty": "medium"
+        }
+    ],
+    "General Knowledge":[
+        {
+            "id": 41,
+            "question": "Which element has the atomic number 6?",
+            "options": ["Oxygen", "Carbon", "Nitrogen", "Helium"],
+            "answer": 1,
+            "category": "General Knowledge",
+            "difficulty": "medium"
+        },
+        {
+            "id": 42,
+            "question": "What is the capital city of Canada?",
+            "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+            "answer": 1,
+            "category": "General Knowledge",
+            "difficulty": "medium"
+        },
+        {
+            "id": 43,
+            "question": "In which year did World War II end?",
+            "options": ["1942", "1945", "1948", "1950"],
+            "answer": 1,
+            "category": "General Knowledge",
+            "difficulty": "medium"
+        },
+        {
+            "id": 44,
+            "question": "What is the hardest known natural material?",
+            "options": ["Iron", "Graphite", "Diamond", "Quartz"],
+            "answer": 2,
+            "category": "General Knowledge",
+            "difficulty": "medium"
+        },
+        {
+            "id": 45,
+            "question": "Which organ in the human body is primarily responsible for detoxification?",
+            "options": ["Liver", "Kidney", "Lungs", "Stomach"],
+            "answer": 0,
+            "category": "General Knowledge",
+            "difficulty": "medium"
+        },
+        {
+            "id": 46,
+            "question": "Which famous scientist developed the three laws of motion?",
+            "options": ["Einstein", "Galileo", "Newton", "Tesla"],
+            "answer": 2,
+            "category": "General Knowledge",
+            "difficulty": "medium"
+        },
+        {
+            "id": 47,
+            "question": "How many players are there on a standard volleyball team on the court?",
+            "options": ["5", "6", "7", "8"],
+            "answer": 1,
+            "category": "General Knowledge",
+            "difficulty": "medium"
+        },
+        {
+            "id": 48,
+            "question": "Which country is the origin of the car manufacturer Toyota?",
+            "options": ["South Korea", "China", "Japan", "Germany"],
+            "answer": 2,
+            "category": "General Knowledge",
+            "difficulty": "medium"
+        },
+        {
+            "id": 49,
+            "question": "Which gas is used to inflate balloons to make them float?",
+            "options": ["Oxygen", "Hydrogen", "Nitrogen", "Helium"],
+            "answer": 3,
+            "category": "General Knowledge",
+            "difficulty": "medium"
+        },
+        {
+            "id": 50,
+            "question": "How many teeth does a normal adult human have?",
+            "options": ["28", "30", "32", "34"],
+            "answer": 2,
+            "category": "General Knowledge",
+            "difficulty": "medium"
+        },
+        {
+            "id": 51,
+            "question": "Which artist is known for painting the ceiling of the Sistine Chapel?",
+            "options": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Donatello"],
+            "answer": 2,
+            "category": "General Knowledge",
+            "difficulty": "medium"
+        },
+        {
+            "id": 52,
+            "question": "Which planet has the most moons?",
+            "options": ["Earth", "Jupiter", "Saturn", "Mars"],
+            "answer": 2,
+            "category": "General Knowledge",
+            "difficulty": "medium"
+        },
+        {
+            "id": 53,
+            "question": "Who invented the telephone?",
+            "options": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Guglielmo Marconi"],
+            "answer": 2,
+            "category": "General Knowledge",
+            "difficulty": "medium"
+        },
+        {
+            "id": 54,
+            "question": "What does the Richter scale measure?",
+            "options": ["Wind speed", "Tsunami strength", "Earthquake magnitude", "Volcanic activity"],
+            "answer": 2,
+            "category": "General Knowledge",
+            "difficulty": "medium"
+        },
+        {
+            "id": 55,
+            "question": "Which part of the plant conducts photosynthesis?",
+            "options": ["Root", "Stem", "Leaf", "Flower"],
+            "answer": 2,
+            "category": "General Knowledge",
+            "difficulty": "medium"
+        },
+        {
+            "id": 56,
+            "question": "Which country hosted the 2016 Summer Olympics?",
+            "options": ["China", "Brazil", "UK", "Russia"],
+            "answer": 1,
+            "category": "General Knowledge",
+            "difficulty": "medium"
+        },
+        {
+            "id": 57,
+            "question": "What is the largest internal organ in the human body?",
+            "options": ["Brain", "Liver", "Lungs", "Stomach"],
+            "answer": 1,
+            "category": "General Knowledge",
+            "difficulty": "medium"
+        },
+        {
+            "id": 58,
+            "question": "How many valves does the human heart have?",
+            "options": ["2", "3", "4", "5"],
+            "answer": 2,
+            "category": "General Knowledge",
+            "difficulty": "medium"
+        },
+        {
+            "id": 59,
+            "question": "What is the currency of South Africa?",
+            "options": ["Rand", "Dollar", "Euro", "Pound"],
+            "answer": 0,
+            "category": "General Knowledge",
+            "difficulty": "medium"
+        },
+        {
+            "id": 60,
+            "question": "Which famous explorer discovered the sea route to India?",
+            "options": ["Marco Polo", "Christopher Columbus", "Vasco da Gama", "Ferdinand Magellan"],
+            "answer": 2,
+            "category": "General Knowledge",
+            "difficulty": "medium"
+        }
+    ],
+    "Personalities":[
+        {
+            "question": "Who was the first woman to win a Nobel Prize?",
+            "options": ["Marie Curie", "Rosalind Franklin", "Ada Lovelace", "Jane Goodall"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "medium",
+            "id": 61
+        },
+        {
+            "question": "Which African leader was overthrown in a 1987 coup in Burkina Faso?",
+            "options": ["Thomas Sankara", "Blaise Compaoré", "Lamizana", "Roch Kaboré"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "medium",
+            "id": 62
+        },
+        {
+            "question": "Which inventor is credited with the creation of the light bulb?",
+            "options": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "James Watt"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "medium",
+            "id": 63
+        },
+        {
+            "question": "What is Barack Obama's country of birth?",
+            "options": ["Kenya", "USA", "Canada", "Hawaii"],
+            "answer": 1,
+            "category": "personalities",
+            "difficulty": "medium",
+            "id": 64
+        },
+        {
+            "question": "Which famous artist is known for painting the ceiling of the Sistine Chapel?",
+            "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Donatello"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "medium",
+            "id": 65
+        },
+        {
+            "question": "Who is known as the father of modern physics?",
+            "options": ["Albert Einstein", "Galileo Galilei", "Isaac Newton", "Stephen Hawking"],
+            "answer": 2,
+            "category": "personalities",
+            "difficulty": "medium",
+            "id": 66
+        },
+        {
+            "question": "Who developed the theory of evolution by natural selection?",
+            "options": ["Charles Darwin", "Gregor Mendel", "Louis Pasteur", "Carl Linnaeus"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "medium",
+            "id": 67
+        },
+        {
+            "question": "Who is known for inventing the World Wide Web?",
+            "options": ["Tim Berners-Lee", "Steve Jobs", "Bill Gates", "Vint Cerf"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "medium",
+            "id": 68
+        },
+        {
+            "question": "Who is Malala Yousafzai?",
+            "options": ["Pakistani activist for girls' education", "Indian actress", "Syrian refugee", "Afghan poet"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "medium",
+            "id": 69
+        },
+        {
+            "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+            "options": ["Amelia Earhart", "Valentina Tereshkova", "Sally Ride", "Bessie Coleman"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "medium",
+            "id": 70
+        },
+        {
+            "question": "Who is known as the 'Iron Lady'?",
+            "options": ["Margaret Thatcher", "Angela Merkel", "Indira Gandhi", "Golda Meir"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "medium",
+            "id": 71
+        },
+        {
+            "question": "Who developed the polio vaccine?",
+            "options": ["Alexander Fleming", "Jonas Salk", "Louis Pasteur", "Edward Jenner"],
+            "answer": 1,
+            "category": "personalities",
+            "difficulty": "medium",
+            "id": 72
+        },
+        {
+            "question": "Who was the first African-American woman to win the Nobel Prize for Literature?",
+            "options": ["Maya Angelou", "Toni Morrison", "Alice Walker", "Zora Neale Hurston"],
+            "answer": 1,
+            "category": "personalities",
+            "difficulty": "medium",
+            "id": 73
+        },
+        {
+            "question": "Who is known as the 'Father of the Computer'?",
+            "options": ["Charles Babbage", "Alan Turing", "John von Neumann", "Blaise Pascal"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "medium",
+            "id": 74
+        },
+        {
+            "question": "Who was the first Secretary-General of the United Nations?",
+            "options": ["Dag Hammarskjöld", "Trygve Lie", "U Thant", "Kurt Waldheim"],
+            "answer": 1,
+            "category": "personalities",
+            "difficulty": "medium",
+            "id": 75
+        },
+        {
+            "question": "Who is known as the 'Mother of Modern Nursing'?",
+            "options": ["Florence Nightingale", "Clara Barton", "Mary Seacole", "Dorothea Dix"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "medium",
+            "id": 76
+        },
+        {
+            "question": "Who was the first person to win two Nobel Prizes in different fields?",
+            "options": ["Marie Curie", "Linus Pauling", "Albert Einstein", "Frederick Sanger"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "medium",
+            "id": 77
+        },
+        {
+            "question": "Who was the first African-American to serve as a U.S. Supreme Court Justice?",
+            "options": ["Thurgood Marshall", "Clarence Thomas", "Frederick Douglass", "Booker T. Washington"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "medium",
+            "id": 78
+        },
+        {
+            "question": "Who is known as the 'Father of Modern Chemistry'?",
+            "options": ["Antoine Lavoisier", "Dmitri Mendeleev", "Robert Boyle", "John Dalton"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "medium",
+            "id": 79
+        },
+        {
+            "question": "Who was the first woman to serve as Prime Minister of India?",
+            "options": ["Indira Gandhi", "Sonia Gandhi", "Sarojini Naidu", "Pratibha Patil"],
+            "answer": 0,
+            "category": "personalities",
+            "difficulty": "medium",
+            "id": 80
+        }
+    ],
+    "Logic":[
+        
+        {
+            "question": "A train 150 meters long is moving at 60 km/h. How long does it take to pass a pole?",
+            "options": ["6 seconds", "9 seconds", "12 seconds", "15 seconds"],
+            "answer": 2,
+            "category": "Logic",
+            "difficulty": "medium",
+            "id": 81
+        },
+        {
+            "question": "What comes next in the sequence: 2, 6, 12, 20, 30, __?",
+            "options": ["36", "40", "42", "44"],
+            "answer": 2,
+            "category": "Logic",
+            "difficulty": "medium",
+            "id": 82
+        },
+        {
+            "question": "A farmer has 17 sheep and all but 9 run away. How many are left?",
+            "options": ["9", "8", "0", "17"],
+            "answer": 0,
+            "category": "Logic",
+            "difficulty": "medium",
+            "id": 83
+        },
+        {
+            "question": "If the day before two days after Monday is Thursday, what day is it today?",
+            "options": ["Sunday", "Monday", "Tuesday", "Wednesday"],
+            "answer": 1,
+            "category": "Logic",
+            "difficulty": "medium",
+            "id": 84
+        },
+        {
+            "question": "Choose the odd one out: Circle, Triangle, Square, Sphere",
+            "options": ["Circle", "Triangle", "Sphere", "Square"],
+            "answer": 2,
+            "category": "Logic",
+            "difficulty": "medium",
+            "id": 85
+        },
+        {
+            "question": "Which number logically replaces the question mark: 3, 5, 9, 17, ?, 65",
+            "options": ["33", "31", "35", "37"],
+            "answer": 0,
+            "category": "Logic",
+            "difficulty": "medium",
+            "id": 86
+        },
+        {
+            "question": "If a bat and a ball cost $1.10 and the bat costs $1 more than the ball, how much is the ball?",
+            "options": ["$0.05", "$0.10", "$0.15", "$0.20"],
+            "answer": 0,
+            "category": "Logic",
+            "difficulty": "medium",
+            "id": 87
+        },
+        {
+            "question": "I am a three-digit number. My tens digit is five more than my ones digit. My hundreds digit is eight less than my tens digit. What number am I?",
+            "options": ["194", "284", "194", "185"],
+            "answer": 3,
+            "category": "Logic",
+            "difficulty": "medium",
+            "id": 88
+        },
+        {
+            "question": "What is the angle between the hour and minute hands at 2:20?",
+            "options": ["50 degrees", "60 degrees", "70 degrees", "80 degrees"],
+            "answer": 2,
+            "category": "Logic",
+            "difficulty": "medium",
+            "id": 89
+        },
+        {
+            "question": "You see a boat filled with people. It has not sunk, but when you look again you don’t see a single person. Why?",
+            "options": ["They jumped out", "They were ghosts", "They were all married", "The boat sank"],
+            "answer": 2,
+            "category": "Logic",
+            "difficulty": "medium",
+            "id": 90
+        },
+        {
+            "question": "Which letter comes next: Z, X, V, T, R, __?",
+            "options": ["P", "O", "Q", "N"],
+            "answer": 0,
+            "category": "Logic",
+            "difficulty": "medium",
+            "id": 91
+        },
+        {
+            "question": "A is the brother of B. B is the sister of C. C is the father of D. How is A related to D?",
+            "options": ["Uncle", "Father", "Grandfather", "Brother"],
+            "answer": 0,
+            "category": "Logic",
+            "difficulty": "medium",
+            "id": 92
+        },
+        {
+            "question": "Which of the following numbers is the least: -1, 0, -0.5, -2?",
+            "options": ["-1", "-2", "-0.5", "0"],
+            "answer": 1,
+            "category": "Logic",
+            "difficulty": "medium",
+            "id": 93
+        },
+        {
+            "question": "A man is looking at a portrait. Someone asks, 'Whose picture are you looking at?' He replies: 'Brothers and sisters I have none, but that man’s father is my father’s son.' Who is in the picture?",
+            "options": ["His son", "His father", "His cousin", "Himself"],
+            "answer": 0,
+            "category": "Logic",
+            "difficulty": "medium",
+            "id": 94
+        },
+        {
+            "question": "If a square has an area of 144, what is its perimeter?",
+            "options": ["44", "36", "48", "52"],
+            "answer": 2,
+            "category": "Logic",
+            "difficulty": "medium",
+            "id": 95
+        },
+        {
+            "question": "Which word logically connects the following: Phone, Key, Chain?",
+            "options": ["Ring", "Code", "Lock", "Link"],
+            "answer": 0,
+            "category": "Logic",
+            "difficulty": "medium",
+            "id": 96
+        },
+        {
+            "question": "If 1 = 5, 2 = 25, 3 = 325, 4 = 4325, then 5 = ?",
+            "options": ["54325", "5", "1", "None"],
+            "answer": 2,
+            "category": "Logic",
+            "difficulty": "medium",
+            "id": 97
+        },
+        {
+            "question": "Complete the analogy: Finger is to Hand as Toe is to __?",
+            "options": ["Foot", "Shoe", "Leg", "Heel"],
+            "answer": 0,
+            "category": "Logic",
+            "difficulty": "medium",
+            "id": 98
+        },
+        {
+            "question": "What is the missing number: 7, 10, 8, 11, 9, 12, __?",
+            "options": ["13", "10", "11", "14"],
+            "answer": 1,
+            "category": "Logic",
+            "difficulty": "medium",
+            "id": 99
+        },
+        {
+            "question": "In a class of 40 students, 25 play football, 20 play basketball, and 10 play both. How many students play neither?",
+            "options": ["5", "10", "15", "20"],
+            "answer": 1,
+            "category": "Logic",
+            "difficulty": "medium",
+            "id": 100
+        }
+    ] 
+}

@@ -47,8 +47,6 @@ Bienvenue dans le jeu de quiz interactif ! Testez vos connaissances sur différe
 
 - À la fin de chaque session de quiz, vous aurez la possibilité de jouer à nouveau, de consulter les scores ou de quitter le jeu.
 
-## Contact
 
-Pour toute question ou suggestion, n'hésitez pas à contacter [....]
 
 Amusez-vous bien et bonne chance !
